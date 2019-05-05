@@ -1,0 +1,20 @@
+{
+   "environment": "dev",
+   "debug": true,
+   "dbhost": "localhost",
+   "dbname":"inventory",
+   "dbuser":"root",
+   "dbpass":"root",
+   "logfile": "inventory.log",
+   "host" : "0.0.0.0",
+   "smtpserver":"smtp.gmail.com",
+   "smtpport":587,
+   "smtpuser": "devteam7inventory@gmail.com",
+   "smtppass": "Ojas1234",
+   "fromemail": "devteam7inventory@gmail.com",
+   "port":5000,
+   "ldap":"ldap://192.168.1.10:389",
+   "params":"CN=dbubora,OU=Users,OU=OJAS,DC=OJAS-IT,DC=COM",
+   "company":"Ojas1525",
+   "expiry": 3
+}
